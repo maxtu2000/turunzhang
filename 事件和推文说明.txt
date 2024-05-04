@@ -1,0 +1,244 @@
+Event说明：
+{'describe': 'RT @ANI: Indian Railways cancels all passenger trains till March '
+             '31, due to #Coronavirus. ',
+ 'keyLocWords': ['coronavirus'],
+ 'keyWords': ['trains',
+              'till',
+              'passenger',
+              'march',
+              'coronavirus',
+              'railways',
+              'indian',
+              'cancels',
+              'due',
+              'ani'],
+ 'tweetList': [[1241632683911860224,
+                'RT @ANI: Indian Railways cancels all passenger trains till '
+                'March 31, due to #Coronavirus. https://t.co/sKY70sU8v1'],
+               [1241632670758481920,
+                'RT @ANI: Indian Railways cancels all passenger trains till '
+                'March 31, due to #Coronavirus. https://t.co/sKY70sU8v1'],
+               [1241632674361442306,
+                'RT @ANI: Indian Railways cancels all passenger trains till '
+                'March 31, due to #Coronavirus. https://t.co/sKY70sU8v1'],
+               [1241632533546242048,
+                'RT @ANI: Indian Railways cancels all passenger trains till '
+                'March 31, due to #Coronavirus. https://t.co/sKY70sU8v1'],
+               [1241632540370206720,
+                'RT @ANI: Indian Railways cancels all passenger trains till '
+                'March 31, due to #Coronavirus. https://t.co/sKY70sU8v1'],
+               [1241632541439750149,
+                'RT @ANI: Indian Railways cancels all passenger trains till '
+                'March 31, due to #Coronavirus. https://t.co/sKY70sU8v1'],
+               [1241632671823990784,
+                'RT @ANI: Indian Railways cancels all passenger trains till '
+                'March 31, due to #Coronavirus. https://t.co/sKY70sU8v1'],
+               [1241632624642146305,
+                'RT @ANI: Indian Railways cancels all passenger trains till '
+                'March 31, due to #Coronavirus. https://t.co/sKY70sU8v1'],
+               [1241632633039335424,
+                'RT @ANI: Indian Railways cancels all passenger trains till '
+                'March 31, due to #Coronavirus. https://t.co/sKY70sU8v1'],
+               [1241632636893720578,
+                'RT @ANI: Indian Railways cancels all passenger trains till '
+                'March 31, due to #Coronavirus. https://t.co/sKY70sU8v1'],
+               [1241632558850412550,
+                'RT @ANI: Indian Railways cancels all passenger trains till '
+                'March 31, due to #Coronavirus. https://t.co/sKY70sU8v1'],
+               [1241632473127084032,
+                'RT @ANI: Indian Railways cancels all passenger trains till '
+                'March 31, due to #Coronavirus. https://t.co/sKY70sU8v1'],
+               [1241632466516860931,
+                'RT @TimesNow: #Breaking | All the passenger trains have been '
+                'suspended till March 31 amid the Coronavirus scare. | '
+                '#IndiaFightsCoronavirus…'],
+               [1241632515305009157,
+                'RT @ANI: Indian Railways cancels all passenger trains till '
+                'March 31, due to #Coronavirus. https://t.co/sKY70sU8v1'],
+               [1241632452826632192,
+                'RT @ANI: Indian Railways cancels all passenger trains till '
+                'March 31, due to #Coronavirus. https://t.co/sKY70sU8v1'],
+               [1241632550134505473,
+                'RT @ANI: Indian Railways cancels all passenger trains till '
+                'March 31, due to #Coronavirus. https://t.co/sKY70sU8v1'],
+               [1241632491099656198,
+                'RT @ANI: Indian Railways cancels all passenger trains till '
+                'March 31, due to #Coronavirus. https://t.co/sKY70sU8v1'],
+               [1241632508149518336,
+                'RT @ANI: Indian Railways cancels all passenger trains till '
+                'March 31, due to #Coronavirus. https://t.co/sKY70sU8v1'],
+               [1241632599430184960,
+                'RT @ndtv: Coronavirus: No passenger trains till March 31; '
+                'suburban trains, Kolkata metro to run till tonight, says '
+                'Ministry of Railways htt…'],
+               [1241632578378928128,
+                'RT @ANI: Indian Railways cancels all passenger trains till '
+                'March 31, due to #Coronavirus. https://t.co/sKY70sU8v1'],
+               [1241632559424888832,
+                'RT @ANI: Indian Railways cancels all passenger trains till '
+                'March 31, due to #Coronavirus. https://t.co/sKY70sU8v1'],
+               [1241632671643680774,
+                'RT @ANI: Indian Railways cancels all passenger trains till '
+                'March 31, due to #Coronavirus. https://t.co/sKY70sU8v1'],
+               [1241632443645325312,
+                'RT @ANI: Indian Railways cancels all passenger trains till '
+                'March 31, due to #Coronavirus. https://t.co/sKY70sU8v1'],
+               [1241632520451416064,
+                'RT @ANI: Indian Railways cancels all passenger trains till '
+                'March 31, due to #Coronavirus. https://t.co/sKY70sU8v1'],
+               [1241632469901668353,
+                'RT @ANI: Indian Railways cancels all passenger trains till '
+                'March 31, due to #Coronavirus. https://t.co/sKY70sU8v1'],
+               [1241632683693756416,
+                'RT @ANI: Indian Railways cancels all passenger trains till '
+                'March 31, due to #Coronavirus. https://t.co/sKY70sU8v1'],
+               [1241632473961738241,
+                'RT @sharadknp: Indian Railways cancels all passenger trains '
+                'till March 31, due to #Coronavirus.'],
+               [1241632487303856130,
+                'RT @ANI: Indian Railways cancels all passenger trains till '
+                'March 31, due to #Coronavirus. https://t.co/sKY70sU8v1'],
+               [1241632642887380992,
+                'RT @ANI: Indian Railways cancels all passenger trains till '
+                'March 31, due to #Coronavirus. https://t.co/sKY70sU8v1'],
+               [1241632485722726400,
+                'RT @ANI: Indian Railways cancels all passenger trains till '
+                'March 31, due to #Coronavirus. https://t.co/sKY70sU8v1'],
+               [1241632632665821185,
+                'Indian Railways cancels all passenger trains till March 31, '
+                'due to #Coronavirus #CODVID19\n'
+                '@Visakhavaasi… https://t.co/8ptMfjEDEo'],
+               [1241632595365904384,
+                'RT @ANI: Indian Railways cancels all passenger trains till '
+                'March 31, due to #Coronavirus. https://t.co/sKY70sU8v1'],
+               [1241632562054721537,
+                'RT @TimesNow: #Breaking | All the passenger trains have been '
+                'suspended till March 31 amid the Coronavirus scare. | '
+                '#IndiaFightsCoronavirus…'],
+               [1241632468895059968,
+                'RT @ndtv: Coronavirus: No passenger trains till March 31; '
+                'suburban trains, Kolkata metro to run till tonight, says '
+                'Ministry of Railways htt…'],
+               [1241632667654750209,
+                'RT @ANI: Indian Railways cancels all passenger trains till '
+                'March 31, due to #Coronavirus. https://t.co/sKY70sU8v1'],
+               [1241632557688426496,
+                'RT @ANI: Indian Railways cancels all passenger trains till '
+                'March 31, due to #Coronavirus. https://t.co/sKY70sU8v1'],
+               [1241632464906391554,
+                'RT @ANI: Indian Railways cancels all passenger trains till '
+                'March 31, due to #Coronavirus. https://t.co/sKY70sU8v1'],
+               [1241632502785044480,
+                'RT @ANI: Indian Railways cancels all passenger trains till '
+                'March 31, due to #Coronavirus. https://t.co/sKY70sU8v1'],
+               [1241632525346197504,
+                'RT @ANI: Indian Railways cancels all passenger trains till '
+                'March 31, due to #Coronavirus. https://t.co/sKY70sU8v1'],
+               [1241632541020323840,
+                'RT @ANI: Indian Railways cancels all passenger trains till '
+                'March 31, due to #Coronavirus. https://t.co/sKY70sU8v1'],
+               [1241632621752246274,
+                'RT @ANI: Indian Railways cancels all passenger trains till '
+                'March 31, due to #Coronavirus. https://t.co/sKY70sU8v1'],
+               [1241632502617260033,
+                'RT @ANI: Indian Railways cancels all passenger trains till '
+                'March 31, due to #Coronavirus. https://t.co/sKY70sU8v1'],
+               [1241632625451651073,
+                'RT @ANI: Indian Railways cancels all passenger trains till '
+                'March 31, due to #Coronavirus. https://t.co/sKY70sU8v1'],
+               [1241632659966738432,
+                'RT @ANI: Indian Railways cancels all passenger trains till '
+                'March 31, due to #Coronavirus. https://t.co/sKY70sU8v1'],
+               [1241632674894114816,
+                'RT @ANI: Indian Railways cancels all passenger trains till '
+                'March 31, due to #Coronavirus. https://t.co/sKY70sU8v1'],
+               [1241632494174142465,
+                'RT @ANI: Indian Railways cancels all passenger trains till '
+                'March 31, due to #Coronavirus. https://t.co/sKY70sU8v1'],
+               [1241632670431379457,
+                'RT @ANI: Indian Railways cancels all passenger trains till '
+                'March 31, due to #Coronavirus. https://t.co/sKY70sU8v1'],
+               [1241632515174961152,
+                'RT @ANI: Indian Railways cancels all passenger trains till '
+                'March 31, due to #Coronavirus. https://t.co/sKY70sU8v1'],
+               [1241632566043529216,
+                'RT @otvnews: Indian Railways cancels all passenger trains '
+                'till March 31, due to #Coronavirus. #COVID19outbreak '
+                '#Covid_19india https://t.co/…'],
+               [1241632587170234370,
+                'RT @ANI: Indian Railways cancels all passenger trains till '
+                'March 31, due to #Coronavirus. https://t.co/sKY70sU8v1'],
+               [1241632578211217408,
+                'RT @ANI: Indian Railways cancels all passenger trains till '
+                'March 31, due to #Coronavirus. https://t.co/sKY70sU8v1'],
+               [1241632478466469888,
+                'RT @ANI: Indian Railways cancels all passenger trains till '
+                'March 31, due to #Coronavirus. https://t.co/sKY70sU8v1']]}
+
+
+
+
+
+TWeet说明：
+{
+ 'id': 1241632443645325312,
+ 'id_str': '1241632443645325312',
+ 'text': 'RT @ANI: Indian Railways cancels all passenger trains till March 31, '
+         'due to #Coronavirus. https://t.co/sKY70sU8v1',
+ 'timestamp_ms': '1584863217637',
+ 'user': {'contributors_enabled': False,
+          'created_at': 'Wed Oct 07 12:32:31 +0000 2009',
+          'default_profile': False,
+          'default_profile_image': False,
+          'description': 'Born,Broughtup,studied,lived in Cauvery Delta;Living '
+                         'in a place fortunate to drink Cauvery water! Love '
+                         'the Cauvery basin culture! '
+                         'http://tinyurl.com/yeup74u',
+          'favourites_count': 14873,
+          'follow_request_sent': None,
+          'followers_count': 1961,
+          'following': None,
+          'friends_count': 1730,
+          'geo_enabled': False,
+          'id': 80564720,
+          'id_str': '80564720',
+          'is_translator': False,
+          'lang': None,
+          'listed_count': 66,
+          'location': None,
+          'name': 'Alex Pandian',
+          'notifications': None,
+          'profile_background_color': 'EDECE9',
+          'profile_background_image_url': 'http://abs.twimg.com/images/themes/theme3/bg.gif',
+          'profile_background_image_url_https': 'https://abs.twimg.com/images/themes/theme3/bg.gif',
+          'profile_background_tile': False,
+          'profile_banner_url': 'https://pbs.twimg.com/profile_banners/80564720/1467804008',
+          'profile_image_url': 'http://pbs.twimg.com/profile_images/516845148492148737/mY9G40n-_normal.jpeg',
+          'profile_image_url_https': 'https://pbs.twimg.com/profile_images/516845148492148737/mY9G40n-_normal.jpeg',
+          'profile_link_color': '088253',
+          'profile_sidebar_border_color': 'D3D2CF',
+          'profile_sidebar_fill_color': 'E3E2DE',
+          'profile_text_color': '09090A',
+          'profile_use_background_image': True,
+          'protected': False,
+          'screen_name': 'AxPn',
+          'statuses_count': 57793,
+          'time_zone': None,
+          'translator_type': 'none',
+          'url': 'http://alexpandian.blogspot.com',
+          'utc_offset': None,
+          'verified': False},
+ 'words': [{'ner': 'O', 'pos': 'NOUN', 'word': 'Indian'},
+           {'ner': 'O', 'pos': 'NOUN', 'word': 'Railways'},
+           {'ner': 'O', 'pos': 'VERB', 'word': 'cancels'},
+           {'ner': 'O', 'pos': 'DET', 'word': 'all'},
+           {'ner': 'O', 'pos': 'NOUN', 'word': 'passenger'},
+           {'ner': 'O', 'pos': 'NOUN', 'word': 'trains'},
+           {'ner': 'O', 'pos': 'ADP', 'word': 'till'},
+           {'ner': 'O', 'pos': 'NOUN', 'word': 'March'},
+           {'ner': 'O', 'pos': 'NUM', 'word': '31'},
+           {'ner': 'O', 'pos': '.', 'word': ','},
+           {'ner': 'O', 'pos': 'ADJ', 'word': 'due'},
+           {'ner': 'O', 'pos': 'PRT', 'word': 'to'},
+           {'ner': 'LOC', 'pos': 'NOUN', 'word': 'Coronavirus'},
+           {'ner': 'O', 'pos': '.', 'word': '.'}]}
